@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Reimbursement Pro",
+  "description": "An intelligent employee reimbursement application that uses Gemini to automatically extract expense details from uploaded receipts, simplifying the claim process for categories like food, cab, train, laundry, and stay.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

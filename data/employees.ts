@@ -1,0 +1,22 @@
+export const ALL_EMPLOYEES = [
+    { id: 'mgr1', name: 'John Doe' },
+    { id: 'mgr2', name: 'Jane Smith' },
+    { id: 'mgr3', name: 'Peter Jones' },
+    { id: 'emp4', name: 'Emily White' },
+    { id: 'emp5', name: 'Michael Brown' },
+    { id: 'emp6', name: 'Sarah Green' },
+    { id: 'emp7', name: 'David Black' },
+    { id: 'emp8', name: 'Laura King' },
+    { id: 'emp9', name: 'Chris Wright' },
+    { id: 'emp10', name: 'Amanda Hill' },
+    { id: 'emp11', name: 'Brian Scott' },
+    { id: 'emp12', name: 'Jessica Adams' },
+    { id: 'emp13', name: 'Kevin Nelson' },
+    { id: 'emp14', name: 'Michelle Carter' },
+    { id: 'emp15', name: 'Steven Parker' },
+    { id: 'emp16', name: 'Nicole Evans' },
+    { id: 'emp17', name: 'Daniel Turner' },
+    { id: 'emp18', name: 'Melissa Phillips' },
+    { id: 'emp19', name: 'Robert Campbell' },
+    { id: 'emp20', name: 'Stephanie Rogers' }
+];
