@@ -270,3 +270,24 @@ To create an optimized build for deployment, run:
 npm run build
 ```
 This will generate a `dist` folder containing static HTML, CSS, and JavaScript files that can be hosted on any web server. The application is now production-ready and expects to communicate with a live backend API.
+
+
+<img width="1920" height="1080" alt="Screenshot 2025-10-22 150417" src="https://github.com/user-attachments/assets/8d0884cd-aa00-41cd-b190-55f9d68b3b2e" />
+<img width="1920" height="1080" alt="Screenshot 2025-10-22 150426" src="https://github.com/user-attachments/assets/935d5d80-e891-4203-ac14-ef92a967e559" />
+<img width="1920" height="1080" alt="Screenshot 2025-10-22 150436" src="https://github.com/user-attachments/assets/a5352c81-555e-4a29-bf62-268ce62655ca" />
+<img width="1920" height="1080" alt="Screenshot 2025-10-22 150444" src="https://github.com/user-attachments/assets/34c6f38a-8ed4-488c-b5d0-0e0055beff11" />
+<img width="1920" height="1080" alt="Screenshot 2025-10-22 150457" src="https://github.com/user-attachments/assets/abb03cf0-8959-4962-9610-ff1b0ff4dfda" />
+<img width="1920" height="1080" alt="Screenshot 2025-10-22 150507" src="https://github.com/user-attachments/assets/552f8094-a2e6-4902-abc9-c84aa7bfdf1d" />
+<img width="1920" height="1080" alt="Screenshot 2025-10-22 150513" src="https://github.com/user-attachments/assets/33522d54-fd67-4c43-8cf8-53ddd3b3fbe3" />
+<img width="1920" height="1080" alt="Screenshot 2025-10-22 150528" src="https://github.com/user-attachments/assets/fcdde68b-4802-4f05-9e15-7e3476577aad" />
+<img width="1920" height="1080" alt="Screenshot 2025-10-22 150544" src="https://github.com/user-attachments/assets/323beb8c-c8ed-4ad0-8e7e-a5830158d139" />
+<img width="1920" height="1080" alt="Screenshot 2025-10-22 150551" src="https://github.com/user-attachments/assets/624759e2-ece9-4716-8262-72969b8b24de" />
+<img width="1920" height="1080" alt="Screenshot 2025-10-22 150558" src="https://github.com/user-attachments/assets/47812725-bb08-4039-bcbd-8124cf1617af" />
+<img width="1920" height="1080" alt="Screenshot 2025-10-22 150608" src="https://github.com/user-attachments/assets/58a09b94-3292-4a98-8fac-2d1c9c025239" />
+<img width="1920" height="1080" alt="Screenshot 2025-10-22 150617" src="https://github.com/user-attachments/assets/947380d8-0385-41f2-9e9b-f11ed2e32639" />
+<img width="1920" height="1080" alt="Screenshot 2025-10-22 150644" src="https://github.com/user-attachments/assets/2cbd27b3-d3d6-4f96-9e07-eb34e9765c0b" />
+<img width="1920" height="1080" alt="Screenshot 2025-10-22 150650" src="https://github.com/user-attachments/assets/1706efeb-6ab6-42c7-a41d-4cf50e62a402" />
+<img width="1920" height="1080" alt="Screenshot 2025-10-22 150718" src="https://github.com/user-attachments/assets/38f8191f-9263-4f13-96fa-4fce4d71bff4" />
+<img width="1920" height="1080" alt="Screenshot 2025-10-22 150724" src="https://github.com/user-attachments/assets/d04ae6c7-2a4f-4a85-a1ef-922bd3bf8737" />
+<img width="1920" height="1080" alt="Screenshot 2025-10-22 150732" src="https://github.com/user-attachments/assets/b61ca971-7c36-4b43-a9f2-bffd76c209aa" />
+<img width="1920" height="1080" alt="Screenshot 2025-10-22 150334" src="https://github.com/user-attachments/assets/a6ba52a6-e874-4d9c-a2a6-4e7496beaca7" />
