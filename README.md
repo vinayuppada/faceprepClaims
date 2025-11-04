@@ -291,3 +291,4 @@ This will generate a `dist` folder containing static HTML, CSS, and JavaScript f
 <img width="1920" height="1080" alt="Screenshot 2025-10-22 150724" src="https://github.com/user-attachments/assets/d04ae6c7-2a4f-4a85-a1ef-922bd3bf8737" />
 <img width="1920" height="1080" alt="Screenshot 2025-10-22 150732" src="https://github.com/user-attachments/assets/b61ca971-7c36-4b43-a9f2-bffd76c209aa" />
 <img width="1920" height="1080" alt="Screenshot 2025-10-22 150334" src="https://github.com/user-attachments/assets/a6ba52a6-e874-4d9c-a2a6-4e7496beaca7" />
+
